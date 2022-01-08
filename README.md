@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ismail Salama Abolsoud Saleh
+- 👀 I’m interested in Computer engineering
+- 🌱 I’m currently learning Data Science and competitive programming
